@@ -50,29 +50,8 @@ Siguiendo las pautas metodológicas de clase del profesor Gonzalo Lucio Lucio:
 
 ## 📊 04. Diagrama Entidad-Relación y Estructura
 
-```mermaid
-erDiagram
-    HOGAR ||--o{ REPORTE_NECESIDAD : "reporta"
-    NECESIDAD ||--o{ REPORTE_NECESIDAD : "es clasificada en"
-    
-    DONADOR ||--o{ DONACION : "realiza"
-    DONACION ||--|{ DETALLE_DONACION : "contiene"
-    TIPO_AYUDA ||--o{ DETALLE_DONACION : "se incluye en"
-    
-    TIPO_AYUDA ||--|| INVENTARIO : "posee stock"
-    
-    PUNTO_ATENCION ||--o{ ENTREGA : "registra en"
-    HOGAR ||--o{ ENTREGA : "recibe"
-    USUARIO ||--o{ ENTREGA : "deja constancia"
-    
-    ENTREGA ||--|{ DETALLE_ENTREGA : "desglosa"
-    TIPO_AYUDA ||--o{ DETALLE_ENTREGA : "se entrega en"
-    
-    USUARIO ||--o{ USUARIO_FUNCION : "ejecuta"
-    FUNCION ||--o{ USUARIO_FUNCION : "es asignada en"
-```
+... boseto
 
----
 
 ## 🧪 05. Validación de los Casos de Negocio (Casos A – G)
 
