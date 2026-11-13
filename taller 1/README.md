@@ -8,7 +8,7 @@
 ### 👥 Información del Equipo
 * **Nombre del Equipo:** Equipo Operación Marea Alta
 * **Integrantes:**
-#1 Juan Camilo Bolaños Salcedo #2 Miguel Ángel Ruiz Gil #3 Daniel Ciro Grarcia #4 luygy Ruben Vivas Moreno
+#1 Juan Camilo Bolaños Salcedo #2 Miguel Ángel Ruiz Gil #3 Daniel Ciro Grarcia #4 luygy Ruben Vivas Morenogit aa
 ---
 
 ## 📌 01. Contexto de la Emergencia y Misión
