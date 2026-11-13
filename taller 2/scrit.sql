@@ -181,3 +181,6 @@ cantidad_entregada INTEGER NOT NULL,
 FOREIGN KEY (id_entrega) REFERENCES entrega(id),
 FOREIGN KEY (id_tipo_ayuda) REFERENCES tipo_ayuda(id)
 );
+
+
+solo es ejemplo de git 
