@@ -1,3 +1,14 @@
+primero entramos a xampp y inicializamos mysql osea le damos start. luego en esa misma ventana buscamos donde se visualice para habrir comando, en este caso es shell con icono de comando. 
+luego desde ahí escribimos mysq- -u root que seria para entrar por el momento a nuestro usuario root, en caso tal que tenga contraseña nos la va a pedir y hay es donde debemos de buscar como configurarla
+en caso tal que no sepamos la contraseña debemos de borrar ese usuario o mas bien me parece qiue podriamos desistalar y conver a instalar xampp o si  no podriamos usuar otro gestor de bases de datos como por ejemplo uno potencialmente bueno que tiene maria db o postgres es laragon,
+en el computador ya lo tenemos instalado listo para utilizarli.
+
+por qui voy a dejar algunos comandos y como se usan directamente con el lenguaje de mysql.
+show databases; --- es para ver las tablas de bases de datos que tenemos
+
+
+
+
 CREATE DATABASE tallerld2;
 
 USE tallerld2;
